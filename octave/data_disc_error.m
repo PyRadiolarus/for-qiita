@@ -18,4 +18,4 @@ xlabel("Number of days elapsed since July 1, 2019(days)")
 ylabel("Tempreture(degree Celsius)")
 
 #プロットをpngファイルに出力
-print("Yamagata2019-21_disc2","-dpng")
+print("Yamagata2019-21_disc_er","-dpng")
