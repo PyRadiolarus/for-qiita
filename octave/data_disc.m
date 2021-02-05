@@ -26,7 +26,7 @@ h=legend({"Temprature"},"Location","bestoutside") #凡例位置はプロット�
 set(h,"FontName","Times New Roman","FontSize",11)
 set(gca,"FontName","Times New Roman","FontSize",11)
 xlabel("Number of days elapsed since July 1, 2019(days)")
-ylabel("Tempreture(degree Celsius)")
+ylabel("Temprature(degree Celsius)")
 
 #プロットをpngファイルに出力
 print("Yamagata2019-21_disc","-dpng")
