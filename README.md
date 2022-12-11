@@ -8,7 +8,7 @@ Qiitaに記事として投稿した際に記述したコードなどを置いて
 
 &emsp;コードや記事内で使用した画像は[octave](https://github.com/PyRadiolarus/for-qiita/tree/master/octave)にあります。
 
-- [Android×Pythonで気圧計作ってみた](2022年12月15日公開予定)
+- [Android×Pythonで気圧計作ってみた]2022年12月15日公開予定
 
 <!--
 &emsp;コードは[BarometerForAndroid](https://github.com/PyRadiolarus/for-qiita/tree/master/BarometerForAndroid)にあります。
