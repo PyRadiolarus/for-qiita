@@ -2,8 +2,16 @@
 
 Qiitaに記事として投稿した際に記述したコードなどを置いています。
 
-### 執筆した記事
+## 執筆した記事
+
 - [Octaveで間隔がバラバラのデータをプロットする方法](https://qiita.com/Hagian/items/1fb26ca66da1cf587d72)
 
+&emsp;コードや記事内で使用した画像は[octave](https://github.com/PyRadiolarus/for-qiita/tree/master/octave)にあります。
 
-最終更新：2021年4月25日
+- [Android×Pythonで気圧計作ってみた](2022年12月15日公開予定)
+
+<!--
+&emsp;コードは[BarometerForAndroid](https://github.com/PyRadiolarus/for-qiita/tree/master/BarometerForAndroid)にあります。
+-->
+
+最終更新：2022年12月11日
