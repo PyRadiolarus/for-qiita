@@ -59,7 +59,7 @@ with open("diff.csv", mode="w") as new:
     new_data_lst = [trim_time,altitude[3:],pressure[3:]]
     writer.writerow(new_data_lst)
 
-with open("apt.csv", mode="a") as out:
+with open("history.csv", mode="a") as out:
     writer = csv.writer(out)
     writer.writerow(new_data_lst)
 
