@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx creator="YAMAP - https://yamap.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<metadata>
+    <bounds maxlat="35.369134" maxlon="138.778500" minlat="35.366435" minlon="138.739171"/>
+</metadata>
+<trk>
+    <name>須走口5合目〜8合目</name>
+    <number>1</number>
+    <trkseg>
+        <trkpt lat="35.366435" lon="138.778500"><ele>1966.2</ele><time>2022-09-10T03:48:17Z</time></trkpt>
+        <trkpt lat="35.366872" lon="138.778276"><ele>1969.2</ele><time>2022-09-10T03:50:50Z</time></trkpt>
+        <trkpt lat="35.367560" lon="138.777829"><ele>1975.7</ele><time>2022-09-10T03:55:16Z</time></trkpt>
+        <trkpt lat="35.369134" lon="138.739171"><ele>3362.7</ele><time>2022-09-10T07:45:39Z</time></trkpt>
+    </trkseg>
+</trk>
+</gpx>

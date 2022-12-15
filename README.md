@@ -12,4 +12,8 @@ Qiitaに記事として投稿した際に記述したコードなどを置いて
 
 &emsp;コードは[BarometerForAndroid](https://github.com/PyRadiolarus/for-qiita/tree/master/BarometerForAndroid)にあります。
 
+- [【Python】GPXファイルからXYZファイルへの変換](https://qiita.com/Hagian/items/1580128c4b5b072e8539)
+
+&emsp;コードや変換前後のGPXファイル、XYZファイルは[GPX2XYZ](https://github.com/PyRadiolarus/for-qiita/tree/master/GPX2XYZ)にあります。
+
 最終更新：2022年12月16日
